@@ -1,0 +1,3 @@
+model_v1 : valid_acc = 90
+model_v1 : valid_acc = 92 -- 7 epochs only
+

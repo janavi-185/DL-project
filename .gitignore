@@ -19,7 +19,7 @@ Thumbs.db
 # ===== Model Files (large) =====
 *.h5
 *.keras
-
+*.zip
 # ===== Dataset =====
 dataset/
 data/
@@ -27,6 +27,9 @@ dataset2/
 SmallImageDS/
 SmallImageDS2/
 indian_temples/
+ImageDs_splits/
+Intel-Image-Classification/
+
 # ===== Uploads =====
 static/uploads/
 
