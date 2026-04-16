@@ -1,0 +1,20 @@
+image_class,place,budget_min,budget_max,best_season,type
+sea,Goa,5000,15000,nov-feb,beach
+sea,Andaman and Nicobar Islands,20000,50000,oct-may,beach
+sea,Pondicherry,4000,12000,oct-mar,beach
+sea,Gokarna,3000,10000,oct-mar,beach
+mountain,Manali,8000,20000,oct-feb,hill
+mountain,Leh Ladakh,15000,40000,jun-sep,adventure
+mountain,Ooty,5000,12000,mar-jun,hill
+mountain,Munnar,6000,15000,sep-mar,hill
+forest,Jim Corbett National Park,7000,20000,nov-jun,wildlife
+forest,Periyar Wildlife Sanctuary,6000,15000,oct-jun,wildlife
+forest,Sundarbans,8000,18000,nov-feb,wildlife
+temple,Tirupati,3000,8000,all,religious
+temple,Vaishno Devi,5000,15000,mar-oct,religious
+temple,Kedarnath,8000,25000,may-oct,religious
+temple,Kashi Vishwanath,4000,12000,oct-mar,religious
+city,Mumbai,5000,20000,nov-feb,urban
+city,Delhi,4000,15000,oct-mar,urban
+city,Bangalore,5000,18000,oct-feb,urban
+city,Jaipur,4000,15000,oct-mar,heritage

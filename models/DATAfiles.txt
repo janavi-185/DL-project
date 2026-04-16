@@ -1,3 +1,4 @@
 model_v1 : valid_acc = 90
-model_v1 : valid_acc = 92 -- 7 epochs only
+model_v2 : valid_acc = 92 -- 7 epochs only
+model_v3 : valid_acc = 92.2 -- 5 epochs only
 

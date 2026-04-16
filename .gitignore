@@ -20,12 +20,13 @@ Thumbs.db
 *.h5
 *.keras
 *.zip
+*.ipynb
+
 # ===== Dataset =====
 dataset/
 data/
 dataset2/
-SmallImageDS/
-SmallImageDS2/
+ISmallImageDS2/
 indian_temples/
 ImageDs_splits/
 Intel-Image-Classification/
